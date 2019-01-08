@@ -1,0 +1,14 @@
+{
+    "wifi": {
+        "ssid" : "FIXME",
+        "psk"  : "FIXME"
+    },
+    "mqtt": {
+        "server"     : "FIXME",
+        "port"       : 8883,
+        "ssl"        : true,
+        "password"   : "FIXME",
+        "user"       : "FIXME"
+        "topic_prefix": "FIXME/"
+    }
+}
